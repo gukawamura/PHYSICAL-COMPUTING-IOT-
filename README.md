@@ -101,3 +101,5 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente.
 * Alternativamente, clique no terminal do VS Code e pressione **`Ctrl + C`**.
 
 ---
+
+https://youtu.be/d3s27DjZkXc
